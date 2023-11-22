@@ -1,0 +1,10 @@
+@media (max-width: 768px) {
+    .advice-card {
+        width: 350px;
+        min-height: 400px;
+    }
+
+    .advice-card p {
+        font-size: 21px;
+    }
+}
